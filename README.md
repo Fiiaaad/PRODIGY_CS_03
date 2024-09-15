@@ -15,7 +15,7 @@ A Python tool to assess the strength of a password based on various criteria inc
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/password-strength-assessor.git
+    git clone https://github.com/Fiiaaad/PRODIGY_CS_03.git
     ```
 
 2. Navigate to the project directory:
